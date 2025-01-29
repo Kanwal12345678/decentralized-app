@@ -23,3 +23,30 @@ span {
         transform: rotateY(360deg);
     }
 }
+@media screen and (max-width: 768px) {
+    p {
+        font-size: 1.5rem;
+    }
+
+    span {
+        font-size: 2rem;
+    }
+
+    .animate__heartBeat {
+        font-size: 2.5rem;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    p {
+        font-size: 1.2rem;
+    }
+
+    span {
+        font-size: 1.8rem;
+    }
+
+    .animate__heartBeat {
+        font-size: 2rem;
+    }
+}

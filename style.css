@@ -15,10 +15,6 @@ span {
     animation: rotateY 3s linear infinite;
     color: red;
 }
-span.imp{
-    color: blueviolet;
-
-}
 @keyframes rotateY{
     0%{
         transform: rotateY(0deg);

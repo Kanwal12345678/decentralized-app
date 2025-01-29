@@ -25,28 +25,28 @@ span {
 }
 @media screen and (max-width: 768px) {
     p {
-        font-size: 3.5rem;
+        font-size: 4.5rem;
     }
 
     span {
-        font-size: 3.5rem;
+        font-size: 4.5rem;
     }
 
     .animate__heartBeat {
-        font-size: 3.5rem;
+        font-size: 4.5rem;
     }
 }
 
 @media screen and (max-width: 480px) {
     p {
-        font-size: 3.5rem;
+        font-size: 4.5rem;
     }
 
     span {
-        font-size: 3.5rem;
+        font-size: 4.5rem;
     }
 
     .animate__heartBeat {
-        font-size: 3.5rem;
+        font-size: 4.5rem;
     }
 }
